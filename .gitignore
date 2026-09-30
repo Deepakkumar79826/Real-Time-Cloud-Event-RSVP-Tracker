@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.db
+*.sqlite
+.venv/
+.env
+
+# Node
+node_modules/
+dist/
+.vite/
+
+# OS/IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Test/cache
+.pytest_cache/
+.coverage
+
+# Secrets
+*.pem
+*.key
+credentials.json

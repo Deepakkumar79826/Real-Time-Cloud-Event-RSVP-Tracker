@@ -1,0 +1,22 @@
+[
+  {
+    "event_name": "Cloud Computing Workshop",
+    "event_type": "Workshop",
+    "event_date": "2026-12-15",
+    "start_time": "10:00",
+    "end_time": "13:00",
+    "venue": "Virtual Lab",
+    "maximum_capacity": 100,
+    "status": "PUBLISHED"
+  },
+  {
+    "event_name": "AI & Cloud Meetup",
+    "event_type": "Meetup",
+    "event_date": "2026-12-20",
+    "start_time": "15:00",
+    "end_time": "17:00",
+    "venue": "Online",
+    "maximum_capacity": 250,
+    "status": "PUBLISHED"
+  }
+]
